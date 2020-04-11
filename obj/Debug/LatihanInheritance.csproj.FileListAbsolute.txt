@@ -1,0 +1,6 @@
+C:\Users\GL503GE\source\repos\LatihanInheritance\bin\Debug\LatihanInheritance.exe.config
+C:\Users\GL503GE\source\repos\LatihanInheritance\bin\Debug\LatihanInheritance.exe
+C:\Users\GL503GE\source\repos\LatihanInheritance\bin\Debug\LatihanInheritance.pdb
+C:\Users\GL503GE\source\repos\LatihanInheritance\obj\Debug\LatihanInheritance.csprojAssemblyReference.cache
+C:\Users\GL503GE\source\repos\LatihanInheritance\obj\Debug\LatihanInheritance.exe
+C:\Users\GL503GE\source\repos\LatihanInheritance\obj\Debug\LatihanInheritance.pdb
